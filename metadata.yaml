@@ -1,0 +1,33 @@
+_repo: Beyond-the-Lines-Or-A-Yankee-Prisoner-Loose-in-Dixie_63120
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Clark, Alexander
+    birthdate: 1834
+    deathdate: 1879
+    gutenberg_agent_id: '52304'
+    url: http://www.gutenberg.org/2009/agents/52304
+creator:
+  author:
+    agent_name: Geer, John James
+    birthdate: 1833
+    deathdate: 1867
+    gutenberg_agent_id: '52295'
+    url: http://www.gutenberg.org/2009/agents/52295
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63120'
+  lccn: 02017801
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons'
+- GITenberg
+title: Beyond the Lines; Or, A Yankee Prisoner Loose in Dixie
+url: http://www.gutenberg.org/ebooks/63120
